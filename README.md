@@ -2,7 +2,7 @@
 
 In this competition, an image-based algorithm was developed to identify histologically confirmed skin cancer cases with single-lesion crops from 3D total body photos (TBP). The image quality resembles close-up smartphone photos, which are regularly submitted for telehealth purposes. The binary classification algorithm could be used in settings without access to specialized care and improve triage for early skin cancer detection.
 
-<img src="https://github.com/cgrundman/isic_challenge/blob/main/isic_1.png" width="400" />
+<img src="https://github.com/cgrundman/isic_challenge_2024/blob/main/isic_1.png" width="400" />
 
 ## Description
 
@@ -25,7 +25,7 @@ To mimic non-dermoscopic images, this competition uses standardized cropped lesi
 
 The following are examples from the training set. 'Strongly-labelled tiles' are those whose labels were derived through histopathology assessment. 'Weak-labelled tiles' are those who were not biopsied and were considered 'benign' by a doctor.
 
-<img src="https://github.com/cgrundman/isic_challenge/blob/main/isic_3.png" />
+<img src="https://github.com/cgrundman/isic_challenge_2024/blob/main/isic_3.png" />
 
 ### Dataset Citation
 
@@ -46,6 +46,6 @@ The location of each lesion on the patient is detected automatically and exporte
 ### Dermoscopy
 Dermoscopy refers to the examination of the skin using skin surface microscopy. Dermoscopy requires a high quality magnifying lens and a powerful lighting system (a dermatoscope), which illuminate morphologic features not otherwise visible to the naked eye. Large dermoscopy datasets are available on ISIC.
 
-<img src="https://github.com/cgrundman/isic_challenge/blob/main/isic_2.jpg" />
+<img src="https://github.com/cgrundman/isic_challenge_2024/blob/main/isic_2.jpg" />
 
 Read more about the competition [here](https://www.kaggle.com/competitions/isic-2024-challenge).
